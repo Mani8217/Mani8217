@@ -10,7 +10,7 @@
 <a href="#"> 
  <img src="https://as2.ftcdn.net/v2/jpg/01/15/66/41/1000_F_115664158_kl9MJjqpe6dJecNWZnOkbd4Y8PO1fFmF.jpg" height="40"></a>
 
-My project in netlify is [My first GA Course react Project](https://fewd-es-mani-final.netlify.app/)
+-  My project in netlify is [My first GA Course react Project](https://fewd-es-mani-final.netlify.app/)
 
 
 
