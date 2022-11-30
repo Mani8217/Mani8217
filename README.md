@@ -1,6 +1,6 @@
 
 # Hello this is Mani , Student of webDeveloping.. 
-<img src="https://japaneselevelup.com/wp-content/uploads/2018/05/Why-Programmers-Like-Japanese-Why-Japanese-Learners-like-Programming-3.jpeg"∫>
+<img src="https://japaneselevelup.com/wp-content/uploads/2018/05/Why-Programmers-Like-Japanese-Why-Japanese-Learners-like-Programming-3.jpeg">
 
 
 
