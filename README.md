@@ -1,6 +1,6 @@
 
 ## Hello this is Mani , Student of webDeveloping..🤝🤖 
-<img src="https://media.wired.com/photos/593259734dc9b45ccec5d618/master/w_2560%2Cc_limit/founding-father-git.jpg">
+<img src="https://media.wired.com/photos/593259734dc9b45ccec5d618/master/w_2560%2Cc_limit/founding-father-git.jpg" align="center">
 
 
 
