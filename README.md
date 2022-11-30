@@ -2,7 +2,9 @@
 ## Hello this is Mani , Student of webDeveloping..🤝🤖 
 <img src="https://media.wired.com/photos/593259734dc9b45ccec5d618/master/w_2560%2Cc_limit/founding-father-git.jpg" align="center">
 
-My Profule in linkdin: <a href="https://www.linkedin.com/in/mohammadreza-shidfar-4bb078134" target="blank"><img src="https://1000marcas.net/wp-content/uploads/2020/01/LinkedIn-emblema.jpg" wisth="80" height="80"></a>
+My Profile in linkdin: <a href="https://www.linkedin.com/in/mohammadreza-shidfar-4bb078134" target="blank" >
+ <img src="https://www.citypng.com/public/uploads/preview/hd-glossy-round-circular-linkedin-in-blue-icon-png-31623971545gxtb29vryu.png" >
+</a>
 
 
 
