@@ -4,7 +4,7 @@
 
 My Profiles in social medias :
  <a href="https://www.linkedin.com/in/mohammadreza-shidfar-4bb078134" target="blank" >
- <img src="file:///Users/manishidfar/Downloads/linkedin.svg">
+ <img src="">
 
 </a>
 
