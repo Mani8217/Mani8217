@@ -1,9 +1,25 @@
 
 ## Hello this is Mani , Student of webDeveloping..🤝🤖 
-<img src="https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/Web-Developer-Bootcamp-San-Francisco.jpeg" align="center">
 
-### 🤓 My Profiles in social medias : <br>
- <a href="https://www.linkedin.com/in/mohammadreza-shidfar-4bb078134" target="blank" >
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+
+
+<h3> 👨🏻•💻 About Me </h3>
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
+- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+
+
+<hr>
+
+<h3>🛠 Tech Stack</h3>
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS.
+
+- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles. 
+<a href="https://www.linkedin.com/in/mohammadreza-shidfar-4bb078134" target="blank" >
  <img src="https://raw.githubusercontent.com/Mani8217/Mani8217/601e4c622d833d1b712e7a152fb739f3850b0fcc/images/linkedin.svg" height="40">
  </a>
 <a href="#"> <img src="https://as2.ftcdn.net/v2/jpg/01/15/63/37/1000_F_115633770_eW4YFq7wORcielto9JPDsqAKys7Y54HZ.jpg" height="40"></a>
@@ -14,9 +30,10 @@
 
 
 
-
-
-
+<h3>🛠 To Learn</h3>
+- 🔧 &nbsp; VUE | JEST | PYTHON
+- 
+- <hr>
 - 👋 Hi, I’m @Mani8217
 - 👀 I’m interested in languages and informatics . 
 - 🌱 I’m currently learning javascripts and espanol ..
